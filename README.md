@@ -1,4 +1,4 @@
 # ttmoresubs
-![+tt_icon_rounded](https://user-images.githubusercontent.com/99596170/184356190-4e9432b5-76f4-4d7b-9c5a-03cca18f10f2.png)
+![+tt_16-9](https://user-images.githubusercontent.com/99596170/184357642-7eb6ffa3-6b98-4d8a-ac5d-2700aa045058.png)
 
 TTMoreSubs - program, that "adds" subs to your TikTok account. Not real, just for fun.
